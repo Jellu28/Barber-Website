@@ -18,3 +18,5 @@ Jelena Kapanen
 Full Stack Developer (Junior) 
 Finland Ylöjärvi 
 Contact me through GitHub profile or by email: 'jel.shk@gmail.com'
+
+![Website project screenshot(https://github.com/Jellu28/Barber-Website/blob/main/Screenshot%202026-01-30%20at%2016.26.36.png)]
